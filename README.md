@@ -12,5 +12,6 @@
   <img src="https://badgen.net/badge/%23/android%2Ddev/green"/>
   <img src="https://badgen.net/badge/%23/mobile%2Ddev/blue"/>
   <img src="https://badgen.net/badge/%23/web%2Ddev/purple"/>
+  <img src="https://badgen.net/badge/%23/backend%2Ddev/gray"/>
 </p>
 
