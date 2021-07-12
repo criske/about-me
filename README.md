@@ -15,3 +15,11 @@
   <img src="https://badgen.net/badge/%23/backend%2Ddev/gray"/>
 </p>
 
+
+**Certifications:**
+
+- [VMware Spring Professional 2021](https://www.credly.com/badges/abcbac56-3a5d-44f7-8e2d-f777fb8b119e/public_url)
+- [Oracle Certified Professional: Java SE 11 Developer](https://www.credly.com/badges/9051592b-fecc-45bc-ab5f-6bba375d0f4d/public_url)
+  
+  
+
